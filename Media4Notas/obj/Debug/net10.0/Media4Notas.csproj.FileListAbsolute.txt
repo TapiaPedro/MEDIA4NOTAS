@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\Media4Notas\bin\Debug\net10.0\Media4Notas.exe
+C:\Users\User\Downloads\Media4Notas\bin\Debug\net10.0\Media4Notas.deps.json
+C:\Users\User\Downloads\Media4Notas\bin\Debug\net10.0\Media4Notas.runtimeconfig.json
+C:\Users\User\Downloads\Media4Notas\bin\Debug\net10.0\Media4Notas.dll
+C:\Users\User\Downloads\Media4Notas\bin\Debug\net10.0\Media4Notas.pdb
+C:\Users\User\Downloads\Media4Notas\obj\Debug\net10.0\Media4Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Media4Notas\obj\Debug\net10.0\Media4Notas.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Media4Notas\obj\Debug\net10.0\Media4Notas.AssemblyInfo.cs
+C:\Users\User\Downloads\Media4Notas\obj\Debug\net10.0\Media4Notas.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Media4Notas\obj\Debug\net10.0\Media4Notas.dll
+C:\Users\User\Downloads\Media4Notas\obj\Debug\net10.0\refint\Media4Notas.dll
+C:\Users\User\Downloads\Media4Notas\obj\Debug\net10.0\Media4Notas.pdb
+C:\Users\User\Downloads\Media4Notas\obj\Debug\net10.0\Media4Notas.genruntimeconfig.cache
+C:\Users\User\Downloads\Media4Notas\obj\Debug\net10.0\ref\Media4Notas.dll
